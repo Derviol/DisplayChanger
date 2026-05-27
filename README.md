@@ -19,8 +19,6 @@ DisplayChanger 是一款基于 Python 的 Windows 桌面应用程序，用于自
 ```
 DisplayChanger/
 ├── display_changer.py   # 主程序源码，包含全部逻辑与界面代码
-├── build.bat            # 一键打包脚本（创建虚拟环境 → 安装依赖 → 打包）
-├── DisplayChanger.spec  # PyInstaller 打包配置文件
 ├── requirements.txt     # Python 依赖清单（仅 pyinstaller）
 ├── README.md            # 原始说明文件
 ```
